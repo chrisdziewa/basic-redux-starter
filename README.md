@@ -4,8 +4,8 @@ A simple Redux boilerplate with MongoDB, Express, Webpack + hot module replaceme
 #####To install use the following steps:
 
 1. Download the zip file on the top of this github page or in terminal run:
-    
-    git clone https://github.com/chrisdziewa/basic-redux-starter/ 
+
+    git clone https://github.com/chrisdziewa/basic-redux-starter/
 
 2. In Config, rename the example-development.json:
 
@@ -27,7 +27,7 @@ A simple Redux boilerplate with MongoDB, Express, Webpack + hot module replaceme
 The main bundle is built at:
 
     /public/bundle.js
-    
+
 The /public/styles/style.scss file is compiled to:
 
     /public/main.css
@@ -37,8 +37,9 @@ The /public/styles/style.scss file is compiled to:
 The entry point to the React app is at:
 
     /public/src/index.js
-    
-and currently serves the App.js component from /public/src/containers/app.js
+
+and currently serves the App.js component from
+    /public/src/containers/app.js
 
 
 ###### Hopefully this starter will be as useful to you as it is to me!

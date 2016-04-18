@@ -1,7 +1,7 @@
 {
   "name": "nightlife-app",
   "version": "1.0.0",
-  "description": "Find local bars and let others know you'll be there",
+  "description": "A simple redux boilerplate",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisdziewa/nightlife-app.git"
+    "url": "git+https://github.com/chrisdziewa/basic-redux-starter"
   },
   "keywords": [
-    "nightlife",
-    "freecodecamp"
+    "redux",
+    "boilerplate"
   ],
   "author": "Chris Dziewa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chrisdziewa/nightlife-app/issues"
+    "url": "https://github.com/chrisdziewa/basic-redux-starter/issues"
   },
-  "homepage": "https://github.com/chrisdziewa/nightlife-app#readme",
+  "homepage": "https://github.com/chrisdziewa/basic-redux-starter",
   "dependencies": {
     "axios": "^0.9.1",
     "babel-preset-react": "6.5.0",

@@ -39,6 +39,7 @@ The entry point to the React app is at:
     /public/src/index.js
 
 and currently serves the App.js component from
+
     /public/src/containers/app.js
 
 

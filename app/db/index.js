@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 // Connect to MongoDB
 mongoose.connect(config.dbURI, (err, db) => {
   if (err) {
-    console.log('MongoDB Error: ', error);
+    console.log('MongoDB Error: ', err);
   } else {
       console.log('Connected to \'db_name\' database');
     }

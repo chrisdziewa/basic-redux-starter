@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-const nightLife = require('./app');
+const mainApp = require('./app');
 const routes = nightLife.routes;
 const PORT = process.env.PORT || 3000;
 const db = require('./app/db');

@@ -1,5 +1,5 @@
 {
-  "name": "nightlife-app",
+  "name": "basic-redux-starter",
   "version": "1.0.0",
   "description": "A simple redux boilerplate",
   "main": "server.js",
